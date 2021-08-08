@@ -30,3 +30,7 @@
 
 * [Files I/O ve Exceptions](7.hafta/untitled.md)
 
+---
+
+* [Contributors](contributors.md)
+
