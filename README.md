@@ -25,15 +25,15 @@ Güzel bir soru! Ders planımız yaklaşık 7 haftadan oluşan bir plandan oluş
       <td style="text-align:left">1. hafta</td>
       <td style="text-align:left">Linux&apos;a giri&#x15F;</td>
       <td style="text-align:left">
-        <p>Dosya manip&#xFC;lasyonu (directory yaratma silme vs)</p>
-        <p>Dosya ve gizlilik hiyerar&#x15F;isi/ permissions ( root, sudo, chmod)</p>
+        <p>Dosya manip&#xFC;lasyonu (directory, yaratma, silme vs)</p>
+        <p>Dosya ve gizlilik hiyerar&#x15F;isi/ permissions (root, sudo, chmod)</p>
         <p>Python, C, C++ compilation</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">2. Hafta</td>
       <td style="text-align:left">
-        <p>C++&#x2019;a baslangic</p>
+        <p>C++&#x2019;a ba&#x15F;lang&#x131;&#xE7;</p>
         <p>Variables/ Functions</p>
       </td>
       <td style="text-align:left">
@@ -46,11 +46,11 @@ Güzel bir soru! Ders planımız yaklaşık 7 haftadan oluşan bir plandan oluş
       <td style="text-align:left">3. HAFTA</td>
       <td style="text-align:left">Control statements</td>
       <td style="text-align:left">
-        <p>&#xB7; Keywords</p>
-        <p>&#xB7; If else</p>
-        <p>&#xB7; Do...while</p>
-        <p>&#xB7; For loops</p>
-        <p>While else</p>
+        <p>Keywords</p>
+        <p>&#xB7;If else</p>
+        <p>&#xB7;Do...while</p>
+        <p>&#xB7;For loops</p>
+        <p>&#xB7;While...else</p>
       </td>
     </tr>
     <tr>
@@ -65,7 +65,8 @@ Güzel bir soru! Ders planımız yaklaşık 7 haftadan oluşan bir plandan oluş
       <td style="text-align:left">5. HAFTA</td>
       <td style="text-align:left">Arrays/Pointers</td>
       <td style="text-align:left">
-        <p>Arrays/ how to Access elements of an array. Loop through Arrays</p>
+        <p>Arrays/ how to Access elements of an array.</p>
+        <p>Loop through Arrays</p>
         <p>Pointers</p>
       </td>
     </tr>
@@ -81,4 +82,6 @@ Güzel bir soru! Ders planımız yaklaşık 7 haftadan oluşan bir plandan oluş
     </tr>
   </tbody>
 </table>
+
+
 

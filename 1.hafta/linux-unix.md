@@ -2,8 +2,6 @@
 
 {% embed url="https://docs.google.com/presentation/d/1UOyiQh\_yoxYzQFnHmtg-PeOUfLWHppQZC-ibIEEbJ0s/edit?usp=sharing" %}
 
-
-
 ## İçerik
 
 * **Linux nedir ne değildir?**
@@ -24,27 +22,25 @@ Ben Hakan Can Günerli, yaklaşık 2018 yılından beri Robotik ekosisteminde, 2
 
 ● Aygıt ve uygulama yönetimi konusunda sıkıntı yaşanabilir.
 
-
-
 ## Bahsedeceğimiz basit komutlar
 
-ls : listeleme
+**ls** : listeleme
 
-cd : navigasyon mkdir :klasör yaratma
+**cd** : navigasyon 
 
-rm: dosya/klasör silme 
+**mkdir** :klasör yaratma
 
-touch: dosya yaratma 
+**rm**: dosya/klasör silme 
 
-cat: dosya ici önizleme 
+**touch**: dosya yaratma 
 
-sudo: uzman kullanici 
+**cat**: dosya içi ön izleme 
 
-chmod : kullanici haklari 
+**sudo**: uzman kullanıcı
 
-nano : mini editör
+**chmod** : kullanıcı hakları 
 
-
+**nano** : mini editör
 
 ## Hiyerarşi
 
@@ -68,7 +64,7 @@ Python'u kullanabilmek için yapmamız gereken şey öncellikle python var mı y
 whereis python
 ```
 
-Ubuntu'nun yeni sürümlerinde python \(genellikle python 2.7\) bulunur, ama yoksa eğer python'u yüklemek için kullanacağınız komut şudur, 
+Ubuntu'nun yeni sürümlerinde python \(genellikle python 2.7\) bulunur, ama yoksa eğer python'u yüklemeniz gerekiyorsa veya hata alıyorsanız bunu çözmek için kullanacağınız komut şudur: 
 
 ```text
 $ sudo apt-get update
@@ -83,13 +79,11 @@ python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladık
 $ python3 hello.py
 ```
 
-eğer C veya C++ kullanıyorsanız \(ki bu rehberin devamında kullanıyor olacaksınız\) g++ kullanmanız gerekecektir. Aynı şekilde çoğu modern Linux sürümünde bulumakla birlikte, kullanmanız gereken komut aşağıdaki gibidir:
+Eğer C veya C++ kullanıyorsanız \(ki bu rehberin devamında kullanıyor olacaksınız\) g++ kullanmanız gerekecektir. Aynı şekilde çoğu modern Linux sürümünde bulunmakla birlikte, kullanmanız gereken komut aşağıdaki gibidir:
 
 ```text
 $ sudo apt install g++
 ```
-
-
 
 Bundan sonra ise yazdığınız kodunuzu bulup, g++ ve sonrasında belgenizin adıyla bu işlemi bitirip kodunuzu çalıştırılabilir hale getirebilirsiniz.
 
@@ -97,11 +91,9 @@ Bundan sonra ise yazdığınız kodunuzu bulup, g++ ve sonrasında belgenizin ad
 g++ hello.cpp
 ```
 
-Derlenen dosya a.out adıyla bir dosya yaratır ve bu kodu makine kodunda çalışıtırılabilir hale getirir. bundan sonra yapmanız gereken şey ise kodu çalışıtırıp sonucu görmektir.
+Derlenen dosya a.out adıyla bir dosya yaratır ve bu kodu makine kodunda çalıştırılabilir hale getirir. Bundan sonra yapmanız gereken şey ise kodu çalıştırıp sonucu görmektir.
 
 ```text
 ./a.out
 ```
-
-
 
