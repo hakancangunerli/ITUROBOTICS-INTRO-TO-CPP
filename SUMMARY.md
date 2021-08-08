@@ -4,7 +4,7 @@
 
 ## 1.Hafta
 
-* [Linux/Unix’e giriş](1.hafta/untitled.md)
+* [Linux/Unix’e giriş](1.hafta/linux-unix.md)
 
 ## 2.HAFTA
 
