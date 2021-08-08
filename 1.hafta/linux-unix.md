@@ -73,7 +73,7 @@ $ sudo apt-get install python3.6
 
 çıkan sonuçlara yes veya y diyerek yüklemeyi sağlayın.
 
-python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladıktan sonra, tek yapmanız gereken `python3` ve kodunuzun adını yazmak.
+Python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladıktan sonra, tek yapmanız gereken `python3` ve kodunuzun adını yazmak.
 
 ```text
 $ python3 hello.py
