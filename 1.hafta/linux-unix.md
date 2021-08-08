@@ -2,6 +2,8 @@
 
 {% embed url="https://docs.google.com/presentation/d/1UOyiQh\_yoxYzQFnHmtg-PeOUfLWHppQZC-ibIEEbJ0s/edit?usp=sharing" %}
 
+
+
 ## İçerik
 
 * **Linux nedir ne değildir?**
@@ -10,9 +12,7 @@
 
 ## Ben kimim?
 
-- Ben Hakan Can Günerli, yaklaşık 2018 yılından beri Robotik ekosisteminde, 2015 yılından beri de yazılım ekosisteminde bulunmaktayım. Bu süreç boyunca 100'den fazla öğrenciye yazılım ve robotiğe giriş konularında dersler verdim, ve Türkiye İş Bankası gibi büyük şirketlerde de çalıştım. Şuan Georgia Üniversitesi'nde üçüncü sınıf öğrencisi olarak Yapay Zeka ve Veri Bilimi konularında çifte ihtisas yapıyorum ve okulumda Robotik konusunda Lisans öğrencisi olarak araştırma asistanlığı yapıyorum.
-
-
+Ben Hakan Can Günerli, yaklaşık 2018 yılından beri Robotik ekosisteminde, 2015 yılından beri de yazılım ekosisteminde bulunmaktayım. Bu süreç boyunca 100'den fazla öğrenciye yazılım ve robotiğe giriş konularında dersler verdim, ve Türkiye İş Bankası gibi büyük şirketlerde de çalıştım. Şuan Georgia Üniversitesi'nde üçüncü sınıf öğrencisi olarak Yapay Zeka ve Veri Bilimi konularında çifte ihtisas yapıyorum ve okulumda Robotik konusunda Lisans öğrencisi olarak araştırma asistanlığı yapıyorum.
 
 ## Linux/Unix nedir, ne değildir?
 
