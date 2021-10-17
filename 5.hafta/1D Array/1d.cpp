@@ -8,8 +8,8 @@ int main() {
   cout << "Bir element: " << cars[1] << endl;
 
 cout << "Butun elemenler: " << endl; 
-  for(int i = 0; i < 4; i++) {
-    cout << cars[i] << "\n";
+  for(int i = 0; i < 4; i++) { // 0 1 2 3 
+     cout << cars[i] << "\n";
   }
   return 0;
 }
