@@ -3,7 +3,7 @@
 
 int main() {
   // adres &
-  // deferans, yani deger
+  // deferans, yani deger * 
 
 int x =5; 
 int * ptr = &x;
