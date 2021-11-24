@@ -22,15 +22,6 @@
 
 * [Arrays ve Pointers](5.hafta/untitled.md)
 
-## 6.HAFTA
-
-* [Object Oriented Programming](6.hafta/untitled.md)
-
-## 7.HAFTA
-
-* [Files I/O ve Exceptions](7.hafta/untitled.md)
-
----
+***
 
 * [Contributors](contributors.md)
-
