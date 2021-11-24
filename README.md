@@ -19,6 +19,4 @@ Güzel bir soru! Ders planımız yaklaşık 7 haftadan oluşan bir plandan oluş
 | 3.   HAFTA | Control statements                                | <p>Keywords</p><p>·If else</p><p>·Do...while</p><p>·For loops</p><p>·While...else</p>                                                                           |
 | 4.   HAFTA | Classes/ Objects                                  | <p>How to create classes with attributes, create objects based on classes.</p><p>Constructors</p>                                                               |
 | 5.   HAFTA | Arrays/Pointers                                   | <p>Arrays/ how to Access elements of an array. </p><p>Loop through Arrays</p><p>Pointers</p>                                                                    |
-| 6.   HAFTA | Inheritance                                       |  Polymorphism, interfaces                                                                                                                                       |
-| 7.   HAFTA | C++ Files, C++ exceptions                         | Try/catch, exception handling, access/read files                                                                                                                |
 
