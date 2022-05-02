@@ -2,13 +2,17 @@
 description: Compilation (gcc) Variable declaration (int, string, long) İnput
 ---
 
-# Variables/Functions
+# Değişkenler/Fonksiyonlar
+
+{% embed url="https://docs.google.com/presentation/d/1U0SyRggBWvXcNk5moNC8nhDKrudH5_rWL_N6Z1Rxaek/edit?usp=sharing" %}
+
+
 
 ## İçerik
 
-**Değişkenler(Variables) **
+**Değişkenler(Variables)**&#x20;
 
-**Fonksiyonlar (Functions) **
+**Fonksiyonlar (Functions)**&#x20;
 
 **Giriş-Çıkış (I/O)**
 
@@ -24,9 +28,9 @@ C++’da 7 tane variable vardır. Bunlar; bool, char , int ,float, double void, 
 
 
 
-**Bool **-> Boolean - true/false (bir byte) Int -> integer/tamsayı (4 byte)\
-**Float **-> 7 basamağa kadar sayı (4 byte) Double -> 15 basamağa kadar sayı (8 byte)\
-**Void **-> sonuç vermeyen fonksiyon tipi\*
+**Bool** -> Boolean - true/false (bir byte) Int -> integer/tamsayı (4 byte)\
+**Float** -> 7 basamağa kadar sayı (4 byte) Double -> 15 basamağa kadar sayı (8 byte)\
+**Void** -> sonuç vermeyen fonksiyon tipi\*
 
 ### **Type Modifier/ Tür değiştirici**
 

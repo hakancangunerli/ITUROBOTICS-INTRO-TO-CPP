@@ -2,7 +2,9 @@
 description: Arrays/ how to Access elements of an array. Loop through Arrays Pointers
 ---
 
-# Arrays ve Pointers
+# Diziler, İşaretçiler ve Vektörler
+
+{% embed url="https://docs.google.com/presentation/d/1EC3nviSF9zTEOhCTof3ufwrBalrMM1IT_-I47tIX8YU/edit?usp=sharing" %}
 
 ## İçerik
 

@@ -8,20 +8,20 @@
 
 ## 2.HAFTA
 
-* [Variables/Functions](2.hafta/untitled.md)
+* [Değişkenler/Fonksiyonlar](2.hafta/untitled.md)
 
 ## 3.HAFTA
 
-* [Control statements](3.hafta/untitled.md)
+* [Kontrol ifadeleri](3.hafta/untitled.md)
 
 ## 4.HAFTA
 
-* [Classes, Objects ve Constructors](4.hafta/untitled.md)
+* [Sınıflar, Nesneler ve Yapıcılar](4.hafta/untitled.md)
 
 ## 5.HAFTA
 
-* [Arrays ve Pointers](5.hafta/untitled.md)
+* [Diziler, İşaretçiler ve Vektörler](5.hafta/untitled.md)
 
 ***
 
-* [Contributors](contributors.md)
+* [Katkıda Bulunanlar](contributors.md)

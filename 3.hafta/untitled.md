@@ -2,7 +2,9 @@
 description: "•\t Keywords •\tIf else •Do...while •For loops, While else"
 ---
 
-# Control statements
+# Kontrol ifadeleri
+
+{% embed url="https://docs.google.com/presentation/d/1XuIPgBMIicWZ5ZKES_BbC10agCOyPAmUgT8B884L3P8/edit?usp=sharing" %}
 
 ## İçerik
 

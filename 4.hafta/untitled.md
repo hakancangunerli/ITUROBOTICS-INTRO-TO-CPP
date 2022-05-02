@@ -4,7 +4,9 @@ description: >-
   Constructors
 ---
 
-# Classes, Objects ve Constructors
+# Sınıflar, Nesneler ve Yapıcılar
+
+{% embed url="https://docs.google.com/presentation/d/1hWvO2hFMXPIUeMr4YojPBKodnUqTL9Fxwt0MD1-m9Ic/edit?usp=sharing" %}
 
 ## İçerik
 
