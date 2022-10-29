@@ -1,7 +1,3 @@
----
-description: Introduction to Linux
----
-
 # Linux/Unix’e giriş
 
 {% embed url="https://docs.google.com/presentation/d/1UOyiQh_yoxYzQFnHmtg-PeOUfLWHppQZC-ibIEEbJ0s/edit?usp=sharing" %}
@@ -12,7 +8,9 @@ description: Introduction to Linux
 * **Dosya manipülasyonu**
 * **Dosya ve gizlilik hiyerarşisi/ permissions ( root, sudo, chmod) Python, C, C++ compilation**
 
-##
+## Ben kimim?
+
+Ben Hakan Can Günerli, yaklaşık 2018 yılından beri Robotik ekosisteminde, 2015 yılından beri de yazılım ekosisteminde bulunmaktayım. Bu süreç boyunca 100'den fazla öğrenciye yazılım ve robotiğe giriş konularında dersler verdim, ve Türkiye İş Bankası gibi büyük şirketlerde de çalıştım. Şuan Georgia Üniversitesi'nde üçüncü sınıf öğrencisi olarak Yapay Zeka ve Veri Bilimi konularında çifte ihtisas yapıyorum ve okulumda Robotik konusunda Lisans öğrencisi olarak araştırma asistanlığı yapıyorum.
 
 ## Linux/Unix nedir, ne değildir?
 
@@ -28,9 +26,9 @@ description: Introduction to Linux
 
 **ls** : listeleme
 
-**cd** : navigasyon&#x20;
+**cd **: navigasyon&#x20;
 
-**mkdir** :klasör yaratma
+**mkdir **:klasör yaratma
 
 **rm**: dosya/klasör silme&#x20;
 
@@ -40,9 +38,9 @@ description: Introduction to Linux
 
 **sudo**: uzman kullanıcı
 
-**chmod** : kullanıcı hakları&#x20;
+**chmod **: kullanıcı hakları&#x20;
 
-**nano** : mini editör
+**nano **: mini editör
 
 ## Hiyerarşi
 
@@ -75,7 +73,7 @@ $ sudo apt-get install python3.6
 
 çıkan sonuçlara yes veya y diyerek yüklemeyi sağlayın.
 
-Python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladıktan sonra, tek yapmanız gereken `python3` ve kodunuzun adını yazmak.
+Python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladıktan sonra, tek yapmanız gereken `python3 `ve kodunuzun adını yazmak.
 
 ```
 $ python3 hello.py
