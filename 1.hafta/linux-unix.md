@@ -26,9 +26,9 @@ Ben Hakan Can Günerli, yaklaşık 2018 yılından beri Robotik ekosisteminde, 2
 
 **ls** : listeleme
 
-**cd **: navigasyon&#x20;
+**cd** : navigasyon&#x20;
 
-**mkdir **:klasör yaratma
+**mkdir** :klasör yaratma
 
 **rm**: dosya/klasör silme&#x20;
 
@@ -38,9 +38,9 @@ Ben Hakan Can Günerli, yaklaşık 2018 yılından beri Robotik ekosisteminde, 2
 
 **sudo**: uzman kullanıcı
 
-**chmod **: kullanıcı hakları&#x20;
+**chmod** : kullanıcı hakları&#x20;
 
-**nano **: mini editör
+**nano** : mini editör
 
 ## Hiyerarşi
 
@@ -73,7 +73,7 @@ $ sudo apt-get install python3.6
 
 çıkan sonuçlara yes veya y diyerek yüklemeyi sağlayın.
 
-Python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladıktan sonra, tek yapmanız gereken `python3 `ve kodunuzun adını yazmak.
+Python kodunu çalıştırmak gayet kolay. dosyanızı belge olarak hazırladıktan sonra, tek yapmanız gereken `python3` ve kodunuzun adını yazmak.
 
 ```
 $ python3 hello.py
